@@ -130,10 +130,6 @@ export default function StickyBottomCTA() {
                                         className="inline-flex text-sm rounded-2xl -center justify-center "
                                     />
 
-                                    {/* Seats chip */}
-                                    <div className="absolute md:-top-4 -top-5 right- right-[4%] mt-2 min-w-[100px] sm:min-w-[118px] rounded-full bg-[#0B1A3A] px-2 sm:px-3.5 py-1 sm:py-1.5 text-center text-[10px] sm:text-[11px] font-semibold text-white shadow">
-                                        10 Seats Left
-                                    </div>
                                 </div>
 
 
