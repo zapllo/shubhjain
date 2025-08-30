@@ -138,6 +138,7 @@ export default function TrackingScripts() {
       })
       
     
+    }, 2000)
   }, [scripts])
 
   return null
